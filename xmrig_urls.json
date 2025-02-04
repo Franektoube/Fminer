@@ -1,0 +1,9 @@
+{
+  "linux": {
+    "url": "https://github.com/Franektoube/Fminer/raw/refs/heads/main/xmrig-linux.zip"
+  },
+  "windows": {
+    "url": "https://github.com/Franektoube/Fminer/raw/refs/heads/main/xmrig-windows.zip",
+    "cuda_url": "https://github.com/Franektoube/Fminer/raw/refs/heads/main/xmrig-cuda-windows.zip"
+  }
+}
